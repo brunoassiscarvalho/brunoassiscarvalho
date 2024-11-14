@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brunoassiscarvalho
-- 👀 I’m interested in java, nodejs, mongo, react
-- 🌱 I’m currently in a MBA about cloud computing
+- 👀 I’m interested in React JS, Node Js, React Native, Mongo
+- 🌱 I’m currently studying platform engineering
 - 💞️ I’m looking to collaborate on react libraries
 - 📫 How to reach me: https://www.linkedin.com/in/bruno-carvalho-044095a2/
 
